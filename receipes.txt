@@ -7,3 +7,6 @@ html
 python
 javascript
 bootstrap
+
+angular
+sql
