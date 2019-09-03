@@ -1,0 +1,8 @@
+
+
+welcome loke django fullstack
+
+html
+css
+python
+javascript
